@@ -18,7 +18,7 @@ An object-oriented cinema management, ticket booking, and concession ordering ap
 6. Concessions & Receipts - Food and beverage catalog management (`Concession`) and itemized transaction receipt generation (`Receipt`).
 7. Movie & Schedule Administration - RUD operations and file-based persistence for `Movie` and `Schedule` modules.
 
-## 📸 System Preview
+## System Preview
 
 <img width="707" height="552" alt="Login & Register" src="https://github.com/user-attachments/assets/a5a1ff3f-0df3-4c57-8974-74e27a80afcf" />
 <img width="1917" height="966" alt="Movie Menu" src="https://github.com/user-attachments/assets/6a5bbe9d-eecb-44b9-8b02-b85def2d2b99" />
