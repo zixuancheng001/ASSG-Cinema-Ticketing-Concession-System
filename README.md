@@ -4,19 +4,19 @@ An object-oriented cinema management, ticket booking, and concession ordering ap
 
 ## My Contributions
 
-System Core & Orchestration (`CinemaSystem`) - Architected the central `CinemaSystem` controller to coordinate interactions across user authentication, movie browsing, seat reservations, and order processing.
-User Hierarchy & Authentication (`Person`, `Staff`, `Customer`) - Applied OOP principles (inheritance and encapsulation) to design user role classes, implementing customer sign-up and login workflows.
-Booking & Order Processing (`Booking`, `Order`, `OrderItem`) - Engineered the end-to-end reservation and purchasing logic, managing seat bookings alongside itemized order creation and tracking.
+1. System Core & Orchestration (`CinemaSystem`) - Architected the central `CinemaSystem` controller to coordinate interactions across user authentication, movie browsing, seat reservations, and order processing.
+2. User Hierarchy & Authentication (`Person`, `Staff`, `Customer`) - Applied OOP principles (inheritance and encapsulation) to design user role classes, implementing customer sign-up and login workflows.
+3. Booking & Order Processing (`Booking`, `Order`, `OrderItem`) - Engineered the end-to-end reservation and purchasing logic, managing seat bookings alongside itemized order creation and tracking.
 
 ---
 
 ## Team Project Features
 *As part of a collaborative team effort, the complete system also integrates the following modules developed by my teammates:*
 
-Ticketing & Payment Processing - Ticket generation (`Ticket`) and multi-method transaction handling (`Payment`, `PaymentProcess`) supporting `Cash`, `CreditCard`, and `Ewallet` via polymorphism.
-Hall & Seat Management - Cinema hall organization (`Hall`), seat layout modeling (`Seat`), and persistent seat reservation records (`SeatBookingFile`).
-Concessions & Receipts - Food and beverage catalog management (`Concession`) and itemized transaction receipt generation (`Receipt`).
-Movie & Schedule Administration - RUD operations and file-based persistence for `Movie` and `Schedule` modules.
+4. Ticketing & Payment Processing - Ticket generation (`Ticket`) and multi-method transaction handling (`Payment`, `PaymentProcess`) supporting `Cash`, `CreditCard`, and `Ewallet` via polymorphism.
+5. Hall & Seat Management - Cinema hall organization (`Hall`), seat layout modeling (`Seat`), and persistent seat reservation records (`SeatBookingFile`).
+6. Concessions & Receipts - Food and beverage catalog management (`Concession`) and itemized transaction receipt generation (`Receipt`).
+7. Movie & Schedule Administration - RUD operations and file-based persistence for `Movie` and `Schedule` modules.
 
 <img width="707" height="552" alt="image" src="https://github.com/user-attachments/assets/a5a1ff3f-0df3-4c57-8974-74e27a80afcf" />
 <img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/6a5bbe9d-eecb-44b9-8b02-b85def2d2b99" />
