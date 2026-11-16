@@ -18,6 +18,15 @@ An object-oriented cinema management, ticket booking, and concession ordering ap
 6. Concessions & Receipts - Food and beverage catalog management (`Concession`) and itemized transaction receipt generation (`Receipt`).
 7. Movie & Schedule Administration - RUD operations and file-based persistence for `Movie` and `Schedule` modules.
 
+## How to Run Locally
+
+1. **Prerequisites**: Install **Java Development Kit (JDK)** and **JCreator LE** (or any standard Java IDE / terminal with `javac`).
+2. **Download**: Clone this repository or click **Code** -> **Download ZIP** and extract it to a local folder.
+3. **Open & Run (via JCreator LE)**:
+   - Open **JCreator LE** and go to **File** -> **Open Workspace...** (or open the `.jcp` / `.java` files in the `src` folder).
+   - Select the main entry class (`CinemaSystem.java`).
+   - Press `F5` (or click **Build** -> **Build Project** followed by **Run** -> **Run Project**) to compile and launch the application.
+   
 ## System Preview
 
 <img width="707" height="552" alt="Login & Register" src="https://github.com/user-attachments/assets/a5a1ff3f-0df3-4c57-8974-74e27a80afcf" />
