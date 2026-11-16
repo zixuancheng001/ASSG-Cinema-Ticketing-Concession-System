@@ -1,0 +1,6 @@
+1,Popcorn,8.5,48
+2,Coke,5.0,60
+3,Nachos,7.5,40
+4,Hotdog,6.0,30
+5,Candy,4.0,70
+7,Biscuit,2.0,59

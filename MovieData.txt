@@ -1,0 +1,8 @@
+M001,Ninja Turtle,Animation,120,12+,upcoming
+M002,Frozen,Animation,103,12+,Now Showing
+M003,Titanic,Romance,200,16+,Upcoming
+M004,The Conjuring,Horror,112,16+,Now Showing
+M005,Avengers,Action,180,12+,Now Showing
+M006,Crayon Shin-chan,Animation,110,12+,Upcoming
+M007,Joker,Drama,122,18+,Upcoming
+
