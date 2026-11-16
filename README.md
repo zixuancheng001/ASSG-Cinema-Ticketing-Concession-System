@@ -13,7 +13,14 @@ Booking & Order Processing (`Booking`, `Order`, `OrderItem`) - Engineered the en
 ## Team Project Features
 *As part of a collaborative team effort, the complete system also integrates the following modules developed by my teammates:*
 
-* **Ticketing & Payment Processing**: Ticket generation (`Ticket`) and multi-method transaction handling (`Payment`, `PaymentProcess`) supporting `Cash`, `CreditCard`, and `Ewallet` via polymorphism.
-* **Hall & Seat Management**: Cinema hall organization (`Hall`), seat layout modeling (`Seat`), and persistent seat reservation records (`SeatBookingFile`).
-* **Concessions & Receipts**: Food and beverage catalog management (`Concession`) and itemized transaction receipt generation (`Receipt`).
-* **Movie & Schedule Administration**: CRUD operations and file-based persistence for `Movie` and `Schedule` modules.
+Ticketing & Payment Processing - Ticket generation (`Ticket`) and multi-method transaction handling (`Payment`, `PaymentProcess`) supporting `Cash`, `CreditCard`, and `Ewallet` via polymorphism.
+Hall & Seat Management - Cinema hall organization (`Hall`), seat layout modeling (`Seat`), and persistent seat reservation records (`SeatBookingFile`).
+Concessions & Receipts - Food and beverage catalog management (`Concession`) and itemized transaction receipt generation (`Receipt`).
+Movie & Schedule Administration - RUD operations and file-based persistence for `Movie` and `Schedule` modules.
+
+<img width="707" height="552" alt="image" src="https://github.com/user-attachments/assets/a5a1ff3f-0df3-4c57-8974-74e27a80afcf" />
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/6a5bbe9d-eecb-44b9-8b02-b85def2d2b99" />
+<img width="961" height="512" alt="image" src="https://github.com/user-attachments/assets/e25a473e-1ebb-495b-8469-35255ade535a" />
+<img width="862" height="441" alt="image" src="https://github.com/user-attachments/assets/e51bbd9d-718a-484b-9936-87976754e4fa" />
+<img width="795" height="387" alt="image" src="https://github.com/user-attachments/assets/09411f9b-5b97-49b6-8dae-2a85cf82c1b0" />
+<img width="787" height="837" alt="image" src="https://github.com/user-attachments/assets/d9f3d9ce-7ae4-43a8-ab45-f1c6c7952ce2" />
