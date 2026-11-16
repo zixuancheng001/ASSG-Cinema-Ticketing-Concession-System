@@ -18,9 +18,11 @@ An object-oriented cinema management, ticket booking, and concession ordering ap
 6. Concessions & Receipts - Food and beverage catalog management (`Concession`) and itemized transaction receipt generation (`Receipt`).
 7. Movie & Schedule Administration - RUD operations and file-based persistence for `Movie` and `Schedule` modules.
 
-<img width="707" height="552" alt="image" src="https://github.com/user-attachments/assets/a5a1ff3f-0df3-4c57-8974-74e27a80afcf" />
-<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/6a5bbe9d-eecb-44b9-8b02-b85def2d2b99" />
-<img width="961" height="512" alt="image" src="https://github.com/user-attachments/assets/e25a473e-1ebb-495b-8469-35255ade535a" />
-<img width="862" height="441" alt="image" src="https://github.com/user-attachments/assets/e51bbd9d-718a-484b-9936-87976754e4fa" />
-<img width="795" height="387" alt="image" src="https://github.com/user-attachments/assets/09411f9b-5b97-49b6-8dae-2a85cf82c1b0" />
-<img width="787" height="837" alt="image" src="https://github.com/user-attachments/assets/d9f3d9ce-7ae4-43a8-ab45-f1c6c7952ce2" />
+## 📸 System Preview
+
+<img width="707" height="552" alt="Login & Register" src="https://github.com/user-attachments/assets/a5a1ff3f-0df3-4c57-8974-74e27a80afcf" />
+<img width="1917" height="966" alt="Movie Menu" src="https://github.com/user-attachments/assets/6a5bbe9d-eecb-44b9-8b02-b85def2d2b99" />
+<img width="961" height="512" alt="Movie Schedule & Seat" src="https://github.com/user-attachments/assets/e25a473e-1ebb-495b-8469-35255ade535a" />
+<img width="862" height="441" alt="Snack Menu" src="https://github.com/user-attachments/assets/e51bbd9d-718a-484b-9936-87976754e4fa" />
+<img width="795" height="387" alt="Order Details" src="https://github.com/user-attachments/assets/09411f9b-5b97-49b6-8dae-2a85cf82c1b0" />
+<img width="787" height="837" alt="Checkout" src="https://github.com/user-attachments/assets/d9f3d9ce-7ae4-43a8-ab45-f1c6c7952ce2" />
